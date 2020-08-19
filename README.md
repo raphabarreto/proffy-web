@@ -40,10 +40,10 @@ O <strong>Proffy</strong> serve como uma plaforma de ensino, motivado devido ao 
 ## 🔥 Instalação
 
 ```bash
-# Navegue em cada pasta: server / web / mobile e instale as depedências:
+# Navegue até a pasta raiz e instale as depedências:
 $ yarn install
 
-# Depois disso, entre na pasta web e execute o comando:
+# Depois disso, continuando na pasta raiz e execute os seguintes comandos:
 $ yarn start
 $ acesse a url -> http://localhost:3000
 
